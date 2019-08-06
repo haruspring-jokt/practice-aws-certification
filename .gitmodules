@@ -1,3 +1,6 @@
-[submodule "practice-aws-practitioner"]
+[submodule "saa"]
+	path = practice-aws-saa
+	url = https://github.com/haruspring-jokt/practice-aws-saa
+[submodule "practitioner"]
 	path = practice-aws-practitioner
 	url = https://github.com/haruspring-jokt/practice-aws-practitioner
